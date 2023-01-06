@@ -4,7 +4,7 @@
 
 
 
-## <u> Description of projects: <u>
+## <ins> Description of projects: <ins>
 
 ## 1 - Autonomous data collection
 
