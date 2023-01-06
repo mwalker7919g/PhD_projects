@@ -14,9 +14,9 @@ Training the Convolutional Neural Network (CNN) requires a large dataset of vide
   
 - hello
 
-## 2 - Train 3DCNN
+## 2 - Train 3D-CNN
   
-Once the dataset was created, we trained a 3-dimensional CNN to estimate liquid properties, either by classification into categories or regression (estimate a value). For preliminary results, see (link)
+Once the dataset was created, we trained a 3-dimensional CNN to estimate liquid properties, either by classification into categories or regression (estimate a value). For preliminary results, see ([a relative link](./figs/results_hpo.png))
   
 ## 3 - Model inference
   
