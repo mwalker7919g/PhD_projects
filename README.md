@@ -4,12 +4,20 @@
 
 
 
-## Description of projects:
+## <u> Description of projects: <u>
 
 ## 1 - Autonomous data collection
 
 Training the Convolutional Neural Network (CNN) requires a large dataset of videos consisting of moving liquids with different physical properties. We built an autonomous workflow to manipulate samples, capture the motion and store into our dataset for training later.
 
 ![alt text](./figs/auto_dc.png)
+
+## 2 - Train 3DCNN
+  
+Once the dataset was created, we trained a 3-dimensional CNN to estimate liquid properties, either by classification into categories or regression (estimate a value). For preliminary results, see (link)
+  
+## 3 - Model inference
+  
+Once we acquired the dataset and trained our models, we developed an inference model to predict properties of new liquids
 ![alt text](./figs/infer.png)
-![alt text](./figs/results_hpo.png)
+
