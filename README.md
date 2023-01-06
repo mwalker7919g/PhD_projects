@@ -12,7 +12,7 @@ Training the Convolutional Neural Network (CNN) requires a large dataset of vide
 
 ![alt text](./figs/auto_dc.png)
   
-- hello **![link](1 - Autonomous Data Collection/run_routine.py)**
+- hello **[alt text](1 - Autonomous Data Collection/run_routine.py)**
 
 ## 2 - Train 3D-CNN
   
