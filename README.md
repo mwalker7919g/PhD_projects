@@ -8,4 +8,6 @@
 
 ## 1 - Autonomous data collection
 
-To build a CNN model we used a robotic platform to create a large dataset of liquids under motion with different physical properties.
+Training the Convolutional Neural Network (CNN) requires a large dataset of videos consisting of moving liquids with different physical properties. We built an autonomous workflow to manipulate samples, capture the motion and store into our dataset for training later.
+
+![plot](autonomous_dc.png)
