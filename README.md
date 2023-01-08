@@ -28,7 +28,7 @@ Once the dataset was created, we trained a 3-dimensional CNN to estimate liquid 
   
 ## 3 - Model inference
   
-Once we acquired the dataset and trained our models, we developed an inference model to predict properties of new liquids
+Once we acquired the dataset and trained our models, we developed an inference model to predict properties of new liquids.
 ![alt text](./figs/infer.png)
   
 - [**inference.py**](Inference/inference.py) - code for running inference (3DCNN classes are for different model types depending on application)
